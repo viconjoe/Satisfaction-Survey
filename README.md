@@ -1,1 +1,1 @@
-# Satisfaction-Survey
+# Interactive-rating-component
